@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/centraldashboard:v0.3.4
+FROM gcr.io/kubeflow-images-public/centraldashboard:v0.5.0
